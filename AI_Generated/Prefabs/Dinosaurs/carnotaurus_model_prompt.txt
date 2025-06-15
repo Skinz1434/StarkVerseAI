@@ -1,0 +1,18 @@
+# Carnotaurus FBX Model Instructions
+
+This repository does not include a pre-made `carnotaurus_model.fbx`. To obtain a compatible model for Unity:
+
+1. Visit [Quaternius Free 3D Assets](https://quaternius.com/packs/free/cartooncarnivorousdinosaurs.html) and download the "Cartoon Carnivorous Dinosaurs" pack.
+2. The pack includes a low-poly Carnotaurus model in FBX format with a basic rig and texture.
+3. Import the model into Blender or your 3D tool of choice.
+4. Ensure the model is scaled to roughly twice human height, origin at the feet, and oriented forward.
+5. Export as `carnotaurus_model.fbx` with the default brown/gray texture applied.
+
+Alternatively, you can model one in Blender using these guidelines:
+
+- Keep geometry under 10k polygons.
+- Create simple eyes and mouth with no gore.
+- Leave tail and arms with separate bones for later rigging.
+- Use a single 1k texture with a brown/gray palette.
+
+Save the resulting file to `AI_Generated/Prefabs/Dinosaurs/carnotaurus_model.fbx`.
