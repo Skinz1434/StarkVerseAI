@@ -1,0 +1,44 @@
+{
+  "task": "Enhance environment with roaming dinosaurs",
+  "subtasks": [
+    {
+      "agent": "StarkAssets AI",
+      "action": "Generate Carnotaurus, Dilophosaurus, and Velociraptor models with textures and metadata",
+      "output": "/AI_Generated/Prefabs/Dinosaurs/",
+      "status": "pending"
+    },
+    {
+      "agent": "StarkMotion AI",
+      "action": "Rig models and create idle, walk, roar, and run animations with animator controllers",
+      "output": "to be determined",
+      "status": "pending"
+    },
+    {
+      "agent": "StarkLogic AI",
+      "action": "Implement roaming and proximity-roar logic; add optional chase behavior",
+      "output": "to be determined",
+      "status": "pending"
+    },
+    {
+      "agent": "StarkSound AI",
+      "action": "Create dinosaur roars for Carnotaurus, Dilophosaurus, and Velociraptor and attach to AudioSources",
+      "output": "/AI_Generated/Audio/DinosaurRoars/",
+      "status": "pending"
+    },
+    {
+      "agent": "StarkQA AI",
+      "action": "Validate pathing, animation state transitions, and audio volume on mobile/iPad",
+      "output": "QA_Report_Dinosaurs.md",
+      "status": "pending"
+    },
+    {
+      "agent": "StarkPackager AI",
+      "action": "Bundle dinosaurs into prefabs and write dino_manifest.json",
+      "output": "/AI_Generated/Prefabs/Dinosaurs/",
+      "status": "pending"
+    }
+  ],
+  "log": [
+    "[00:00] Project kickoff: roaming dinosaurs added to scope"
+  ]
+}
