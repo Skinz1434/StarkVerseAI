@@ -39,6 +39,13 @@
     }
   ],
   "log": [
-    "[00:00] Project kickoff: roaming dinosaurs added to scope"
+    "[00:00] Project kickoff: roaming dinosaurs added to scope",
+    "[01:00] StarkAssets AI added instructions for Carnotaurus model",
+    {
+      "agent": "StarkAssets AI",
+      "action": "Generated Carnotaurus FBX model",
+      "status": "complete",
+      "output": "carnotaurus_model.fbx"
+    }
   ]
 }
