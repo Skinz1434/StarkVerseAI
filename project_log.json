@@ -46,6 +46,12 @@
       "action": "Generated Carnotaurus FBX model",
       "status": "complete",
       "output": "carnotaurus_model.fbx"
+    },
+    {
+      "agent": "StarkAssets AI",
+      "action": "Generated Carnotaurus FBX using Blender script",
+      "status": "complete",
+      "output": "carnotaurus_model.fbx"
     }
   ]
 }
